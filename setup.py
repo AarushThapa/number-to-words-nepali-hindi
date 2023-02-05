@@ -4,7 +4,7 @@ setup(
     name='number_to_words_nepali_hindi',
     version='0.1.0',
     description='Number to Hindi/Nepali words conversion',
-    # url='https://github.com/your-username/number_to_words',
+    url='https://github.com/AarushThapa/number-to-words-nepali-hindi',
     author='Aarush Thapa',
     author_email='contact@aarushthapa.com.np',
     packages=find_packages(),
