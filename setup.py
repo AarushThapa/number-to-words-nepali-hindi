@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='number_to_words_nepali_hindi',
-    version='0.2.0',
+    name='num2wordsnepalihindi',
+    version='0.3.0',
     description='Number to Hindi/Nepali words conversion',
     url='https://github.com/AarushThapa/number-to-words-nepali-hindi',
     author='Aarush Thapa',
