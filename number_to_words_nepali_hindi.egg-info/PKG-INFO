@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: number-to-words-nepali-hindi
+Version: 0.1.0
+Summary: Number to Hindi/Nepali words conversion
+Home-page: UNKNOWN
+Author: Aarush Thapa
+Author-email: contact@aarushthapa.com.np
+License: UNKNOWN
+Keywords: number words conversion,nepali,hindi,nepali number to words,hindi words to number,nepali words to number,hindi number to words
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+UNKNOWN
+
