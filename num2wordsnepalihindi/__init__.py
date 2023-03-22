@@ -1,0 +1,1 @@
+from .num2wordsnepalihindi import convert_to_words

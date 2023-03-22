@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='num2wordsnepalihindi',
-    version='0.3.0',
+    version='0.4.0',
     description='Number to Hindi/Nepali words conversion',
     url='https://github.com/AarushThapa/number-to-words-nepali-hindi',
     author='Aarush Thapa',
