@@ -17,7 +17,7 @@ def convert_to_words(num):
     number, decimal = str(float(num)).split(".")
     number_in_words = convert_to_nepali_words(int(number))
     if int(decimal) > 0:
-        decimal_in_words = convert_to_nepali_words(int(decimal)).title()
+        decimal_in_words = convert_to_nepali_words(int(decimal))
         return number_in_words + " rupees and " + decimal_in_words + "paisa only"
     return number_in_words + " rupees only"
 
