@@ -21,8 +21,3 @@ def convert_to_words(num):
         return number_in_words + " rupees and " + decimal_in_words + " paisa only"
     return number_in_words + " rupees only"
 
-
-print(convert_to_words(200))
-print(convert_to_nepali_words(15))
-print(convert_to_nepali_words(5000))
-print(convert_to_nepali_words(50000000))
