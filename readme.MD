@@ -14,3 +14,7 @@ from num2wordsnepalihindi import convert_to_words
 result = convert_to_words(5)
 print(result)
 ```
+
+
+## PYPI Download Status
+https://pypistats.org/packages/num2wordsnepalihindi
